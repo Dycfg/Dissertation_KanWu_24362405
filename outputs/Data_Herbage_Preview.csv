@@ -1,0 +1,6 @@
+Cut_Plot,Year,Plot,Row,Block,Management,Sward_type,M_ST,M_Y,First_cut,Cut,Date_Cut,Dry_matter_content,DMY,DMY_Cut2_0,Sand,Check_value,Opm,VEM,DVE,OEB,VEVI,VOS,FOS,SW,Ruw_eiwit,Ruwe_celst,Ruw_as,VCOS_TT,VCOS_TT_schatting,VEM_opb,Ruw_eiwit_opb,N_opname,Natrium,Kalium,Magnesium,Calcium,Fosfor,Mangaan,Zink,IJzer,Koper,Zwavel,Afw_DM_perc_duplos
+Cut1_1,2018,1,A,A,B3,BPW,B3BPW,B3_2018,Early,Cut1,2018-05-17,22.390463917525775,3881.0137457044675,3881.0137457044675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cut1_2,2018,2,A,A,B4,C,B4C,B4_2018,Early,Cut1,2018-05-17,24.382991376746954,3251.065516899594,3251.065516899594,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cut1_3,2018,3,B,A,B1,BPW,B1BPW,B1_2018,Late,Cut1,2018-06-12,37.17277486910998,6839.790575916236,6839.790575916236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cut1_4,2018,4,B,A,B1,BFW,B1BFW,B1_2018,Late,Cut1,2018-06-12,26.590572817586132,7658.084971464807,7658.084971464807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cut1_5,2018,5,C,A,B4,BPW,B4BPW,B4_2018,Early,Cut1,2018-05-17,22.7107337780473,4209.055993531433,4209.055993531433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

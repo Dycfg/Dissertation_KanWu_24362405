@@ -1,0 +1,6 @@
+Plot,Row,Block,Management,Sward_type,First_cut,Year,Round,Month,Date,Check,Comment,SMC,SMC_SD,SMC_CV,GH,GH_SD,GH_CV,Blm_srt_aant,Blmhfd_aant_tot,Gew_Hoornbloem,Grote_weegbree,Kleine_klaver,Knoopkruid,Kruipende_boterbloem,Krulzuring,Madeliefje,Paardenbloem,Pinksterbloem,Ridderzuring,Rode_klaver,Scherpe_boterbloem,Smalle_weegbree,Veldzuring,Hondsdraf,Gewone_smeerwortel,Groot_streepzaad,Zicht_totaal_insecten,Zicht_Zweef,Zicht_Bij,Zicht_Hommel,Zicht_Vlinder,Zicht_overig
+1,A,A,B3,BPW,Early,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,A,A,B4,C,Early,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,B,A,B1,BPW,Late,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,B,A,B1,BFW,Late,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,C,A,B4,BPW,Early,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

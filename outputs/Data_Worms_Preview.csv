@@ -1,0 +1,6 @@
+Plot,Row,Row_1,Block,Management,Sward_type,First_cut,Year,Round,Month,Date,EW_n_tot,EW_n_adult,EW_n_juv,EW_biomass,EW_ind_biomass,EW_prop_juv,EW_T_epigeic,EW_T_endogeic,EW_T_anecic,EW_adult_epigeic,EW_adult_endo,EW_adult_anecic,EW_juv_epigeic,EW_juv_endogeic,EW_juv_aneic,EW_ND,EW_rest_epigeic,EW_rest_endogeic
+1,A,a,A,B3,BPW,Early,2019,,10,,700.0,175.0,525.0,81.0,0.115714285714286,0.75,125.0,525.0,50.0,0.0,175.0,0.0,125.0,350.0,50.0,0.0,0.0,0.0
+2,A,b,A,B4,C,Early,2019,,10,,,,,,,,,,,,,,,,,,,
+3,B,c,A,B1,BPW,Late,2019,,10,,725.0,200.0,525.0,221.5,0.30551724137931,0.724137931034483,425.0,200.0,100.0,25.0,100.0,75.0,400.0,100.0,25.0,0.0,0.0,0.0
+4,B,d,A,B1,BFW,Late,2019,,10,,618.75,125.0,400.0,167.0,0.26989898989899,0.646464646464647,112.5,431.25,75.0,0.0,75.0,50.0,100.0,275.0,25.0,0.0,12.5,81.25
+5,C,e,A,B4,BPW,Early,2019,,10,,,,,,,,,,,,,,,,,,,
